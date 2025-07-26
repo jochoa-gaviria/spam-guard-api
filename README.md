@@ -3,8 +3,7 @@ API Spam Guard
 
 ## Component diagram
 
-```
-mermaid
+```mermaid
 graph TD
     subgraph Frontend móvil
         A[Flutter App (Android/iOS)]
